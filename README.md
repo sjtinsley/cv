@@ -17,7 +17,6 @@
 
 Fast Learner
 
-
 Good Communicator
 
 Problem Solver
@@ -29,23 +28,28 @@ Commercial Acumen
 
 Head of Growth - Alva (June 2021 - December 2021)
 * Delivered revenue growth of 50% per month. 
-* Led the product process
+* Designed overall growth strategy, including channel mix & product roadmap.
+* Responsible for the product process
   * Implemented the ICE framework to prioritise product ideas.
   * Worked with engineers to scope tickets & ensure technical feasibility.
-* Designed overall growth strategy, including channel mix, product roadmap.
 * Led conversion rate optimisation, building & analysing multiple tests.
 * Built business analytics, building business analytics using PostgreSQL.
 * Managed one employee, who worked on community strategy & social media delivery.
 
 Co-Founder - Growth & Company (April 2020 - June 2021)
+* Acquired multiple clients during a global pandemic.
+* Recruited & helped train 3 successful Head of Growth hires.
+* Designed the product for one startup and built their go-to-market strategy.
+* Implemented product processes & growth strategies for multiple clients.
+* Improved acquisition strategies & trained internal employees.
 
 Growth Manager - Lyvly (April 2019 - April 2020)
-* Led the conversion rate optimisation process.
+* Led the conversion rate optimisation process, delivering 50% conversion rate improvement in 3 months.
   * Designed experients from user research & data insight.
   * Built tests using JavaScript, CSS & HTML.
-  * Delivered 50% conversion rate improvement in 3 months.
 * Conceived & designed the property checkout flow.
   * Built wireframes collaborated with engineers on technical requirements.
+  * Improved lead quality 10x, saving sales team time & delivering growth.
 * Managed the 3 largest acquisition channels - Spareroom, Facebook & Google Ads.
 
 Growth Manager - ClickMechanic (September 2016 - April 2019)
