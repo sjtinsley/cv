@@ -50,8 +50,13 @@ Growth Manager - ClickMechanic (September 2016 - April 2019)
 * Designed & implemented a Google Ads bidding model, delivering 30% revenue growth and 25% reduction in acquisition cost.
 
 Freelance Economics & Maths Tutor (July 2015 - July 2016)
+* Built a client base from scratch, and helped all students achieve on or above target grades for GCSE & A-level.
 
 Secondary School Maths Teacher - TeachFirst (July 2013 - July 2015)
+* Taught Key Stage 2 to 4 Mathematics in an area of socio-economic deprivation following 6 weeks of training.
+* Completed the PGCE alongside a full-time teaching position.
+* Ran STEP (University of Cambridge maths admissions tests) programme for Year 13 students, and an after-school club for talented KS3 students.
+* Managed 25 university applications as a tutor, helping them receive the only two "Oxbridge" offers in the school.
 
 
 ## Education & Training
