@@ -28,6 +28,14 @@ Commercial Acumen
 ## Professional Experience
 
 Head of Growth - Alva (June 2021 - December 2021)
+* Delivered revenue growth of 50% per month. 
+* Led the product process
+  * Implemented the ICE framework to prioritise product ideas.
+  * Worked with engineers to scope tickets & ensure technical feasibility.
+* Designed overall growth strategy, including channel mix, product roadmap.
+* Led conversion rate optimisation, building & analysing multiple tests.
+* Built business analytics, building business analytics using PostgreSQL.
+* Managed one employee, who worked on community strategy & social media delivery.
 
 Co-Founder - Growth & Company (April 2020 - June 2021)
 
@@ -39,7 +47,6 @@ Growth Manager - Lyvly (April 2019 - April 2020)
 * Conceived & designed the property checkout flow.
   * Built wireframes collaborated with engineers on technical requirements.
 * Managed the 3 largest acquisition channels - Spareroom, Facebook & Google Ads.
-
 
 Growth Manager - ClickMechanic (September 2016 - April 2019)
 * Led the conversion rate optimisation stategy.
@@ -64,6 +71,7 @@ Secondary School Maths Teacher - TeachFirst (July 2013 - July 2015)
 Makers Academy Software Engineering Bootcamp (March 2022 - July 2022)
 
 NEF+ Programme - Centre For Entrepreneurs (September 2016 - June 2017)
+* Intensive 12-month programme to develop future entrepreneurs through practical business experience, workshops, alongside business coaching and mentoring.
 
 PGCE (Mathematics) - Institute of Education (September 2013 - July 2014)
 
