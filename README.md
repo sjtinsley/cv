@@ -1,5 +1,7 @@
 # Simon Tinsley
 
+## Intro
+
 ## Projects
 
 | Project | Link | Solo/group | Technologies |
@@ -13,13 +15,14 @@
 
 ## Skills
 
-Fast learner
+Fast Learner
 
-Good communicator
+
+Good Communicator
 
 Problem Solver
 
-Commercial acumen
+Commercial Acumen
 
 
 ## Professional Experience
@@ -29,8 +32,22 @@ Head of Growth - Alva (June 2021 - December 2021)
 Co-Founder - Growth & Company (April 2020 - June 2021)
 
 Growth Manager - Lyvly (April 2019 - April 2020)
+* Led the conversion rate optimisation process.
+  * Designed experients from user research & data insight.
+  * Built tests using JavaScript, CSS & HTML.
+  * Delivered 50% conversion rate improvement in 3 months.
+* Conceived & designed the property checkout flow.
+  * Built wireframes collaborated with engineers on technical requirements.
+* Managed the 3 largest acquisition channels - Spareroom, Facebook & Google Ads.
+
 
 Growth Manager - ClickMechanic (September 2016 - April 2019)
+* Led the conversion rate optimisation stategy.
+  * Build multiple successful A/B tests using self-taught HTML, CSS & jQuery.
+  * Collaborated with engineering teams to deliver tests requiring back-end changes.
+* Led the business intelligence function using self-taught SQL (Postgres).
+* Redesigned the pricing engine, delivering 60% revenue growth in 3 months.
+* Designed & implemented a Google Ads bidding model, delivering 30% revenue growth and 25% reduction in acquisition cost.
 
 Freelance Economics & Maths Tutor (July 2015 - July 2016)
 
