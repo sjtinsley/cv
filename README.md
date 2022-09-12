@@ -1,6 +1,12 @@
 # Simon Tinsley
 
 ## Intro
+Hi, I'm Simon, a software developer who has recently made the leap into pursuing this as a career full-time. I spent the last 5 years working at startups in Growth. Having taught myself HTML, CSS, jQuery and SQL in those roles - as we were always short of engineers! - I found the time I was spending coding was the part of the job I was enjoying the most.
+
+I took the plungs and joined Makers Academy for a 16-week bootcamp, learning key concepts and establishing a solid develop process, and I'm now looking for my first full-time role as a software engineer.
+
+## Tech Stack
+Ruby, JavaScript, HTML. CSS, Python, PostgreSQL, MongoDB, Jest, RSpec, ReactJS
 
 ## Projects
 
@@ -26,13 +32,7 @@ Working in the product process in multiple companies has demanded good communica
 Whilst teaching, I had to ensure the concepts were explained clearly & understood by pupils.
 
 **Problem Solving**
-
-
-**Strategic Thinking**
-
-
-**Data Analysis**
-
+Working in growth at various startups has demanded a diverse set of problem solving skills. When re-designing the pricing system at ClickMechanic (a 2-sided marketplace for car repair), it required predicting behaviour on both the customer & mechanic sides, messaging any changes delicately to mechanics and adjusting the design according to engineering requirements.
 
 ## Professional Experience
 
@@ -83,6 +83,12 @@ Whilst teaching, I had to ensure the concepts were explained clearly & understoo
 ## Education & Training
 
 Makers Academy Software Engineering Bootcamp (March 2022 - July 2022)
+* 16-week full-time intensive software development bootcamp.
+* Learnt key programming concepts, including **test-driven development**, **debugging**, and the **single responsibility principle**.
+* Built several projects in teams, using the **Agile methodology**.
+* Taught in Ruby & JavaScript, with a language agnostic attitude - learnt how to translate key concepts between different languages. 
+* Self-taught React from scratch while building our final [2-week project](https://github.com/sjtinsley/ev-routing).
+* Pair programming helped refine good communication and reinforced coding concepts.
 
 NEF+ Programme - Centre For Entrepreneurs (September 2016 - June 2017)
 * Intensive 12-month programme to develop future entrepreneurs through practical business experience, workshops, alongside business coaching and mentoring.
@@ -92,3 +98,7 @@ PGCE (Mathematics) - Institute of Education (September 2013 - July 2014)
 BA Economics - University of Cambridge (October 2010 - June 2013)
 
 ## Hobbies
+* Catan & Poker: The two best games around, I have regular games in each with my friends.
+* Nature: Nothing more peaceful to me than going for a walk amongst some beautiful greenery.
+* Football Analytics: I nerd out on football data, have built my own [team strength model](https://github.com/sjtinsley/teamstrengthmodel). I love football itself too, and semi-regularly travel to Elland Road to watch my beloved Leeds United.
+* Cooking: Especially Italian food. 😋
