@@ -7,12 +7,12 @@ I took the plungs and joined Makers Academy for a 16-week bootcamp, learning key
 
 
 ## Tech Stack
-Ruby (RSpec, Sinatra, Capybara)
-JavaScript (React, Node.js, Express, Jest, Cypress, Koa) 
-HTML, CSS (Bootstrap, Handlebars)
-Python, 
-PostgreSQL, MongoDB, TablePlus, Mongoose
-Git, Github, Command Line
+* Ruby (RSpec, Sinatra, Capybara)
+* JavaScript (React, Node.js, Express, Jest, Cypress, Koa) 
+* HTML, CSS (Bootstrap, Handlebars)
+* Python
+* PostgreSQL, MongoDB, TablePlus, Mongoose
+* Git, Github, Command Line
 
 ## Projects
 
