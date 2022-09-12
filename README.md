@@ -7,8 +7,12 @@ I took the plungs and joined Makers Academy for a 16-week bootcamp, learning key
 
 
 ## Tech Stack
-Ruby, JavaScript, HTML. CSS, Python, PostgreSQL, MongoDB, Jest, RSpec, ReactJS
-
+Ruby (RSpec, Sinatra, Capybara)
+JavaScript (React, Node.js, Express, Jest, Cypress, Koa) 
+HTML, CSS (Bootstrap, Handlebars)
+Python, 
+PostgreSQL, MongoDB, TablePlus, Mongoose
+Git, Github, Command Line
 
 ## Projects
 
@@ -24,26 +28,28 @@ Ruby, JavaScript, HTML. CSS, Python, PostgreSQL, MongoDB, Jest, RSpec, ReactJS
 
 ## Skills
 
-**Fast Learner**
+***Fast Learner***
 
 Throughout my career I have jumped in at the deep end, and had to learn new skills from scratch. I was a full-time teacher after 6 weeks of training, and the only person in the growth team at ClickMechanic with no experience. Whilst at ClickMechanic, I taught myself SQL & ran the business intelligence function, and also learned how to run a product process.
 
 I find the challenge of learning something new exhilirating, and thrive on the challenge of learning in an unfamiliar environment.
 
-**Good Communicator**
+
+***Good Communicator***
 
 Working in the product process in multiple companies has demanded good communication. I have worked with multiple stakeholders across the businesses, to ensure correct prioritisation, and the impact on each of the teams. I have extensive experience working with engineers to ensure the requirements are clear and to understand the technical limitations and challenges in any ticket, so that I can design it to minimise development time.
 
 Whilst teaching, I had to ensure the concepts were explained clearly & understood by pupils.
 
-**Problem Solving**
+
+***Problem Solving***
 
 Working in growth at various startups has demanded a diverse set of problem solving skills. When re-designing the pricing system at ClickMechanic (a 2-sided marketplace for car repair), it required predicting behaviour on both the customer & mechanic sides, messaging any changes delicately to mechanics and adjusting the design according to engineering requirements.
 
 
 ## Professional Experience
 
-*Head of Growth - Alva (June 2021 - December 2021)*
+***Head of Growth - Alva (June 2021 - December 2021)***
 * Delivered revenue growth of 50% per month. 
 * Designed overall growth strategy, including channel mix & product roadmap.
 * Responsible for the product process
@@ -54,7 +60,7 @@ Working in growth at various startups has demanded a diverse set of problem solv
 * Managed one employee, who worked on community strategy & social media delivery.
 
 
-*Co-Founder - Growth & Company (April 2020 - June 2021)*
+***Co-Founder - Growth & Company (April 2020 - June 2021)***
 * Acquired multiple clients during a global pandemic.
 * Recruited & helped train 3 successful Head of Growth hires.
 * Designed the product for one startup and built their go-to-market strategy.
@@ -62,7 +68,7 @@ Working in growth at various startups has demanded a diverse set of problem solv
 * Improved acquisition strategies & trained internal employees.
 
 
-*Growth Manager - Lyvly (April 2019 - April 2020)*
+***Growth Manager - Lyvly (April 2019 - April 2020)***
 * Led the conversion rate optimisation process, delivering 50% conversion rate improvement in 3 months.
   * Designed experients from user research & data insight.
   * Built tests using JavaScript, CSS & HTML.
@@ -72,7 +78,7 @@ Working in growth at various startups has demanded a diverse set of problem solv
 * Managed the 3 largest acquisition channels - Spareroom, Facebook & Google Ads.
 
 
-*Growth Manager - ClickMechanic (September 2016 - April 2019)*
+***Growth Manager - ClickMechanic (September 2016 - April 2019)***
 * Led the conversion rate optimisation stategy.
   * Build multiple successful A/B tests using self-taught HTML, CSS & jQuery.
   * Collaborated with engineering teams to deliver tests requiring back-end changes.
@@ -81,7 +87,7 @@ Working in growth at various startups has demanded a diverse set of problem solv
 * Designed & implemented a Google Ads bidding model, delivering 30% revenue growth and 25% reduction in acquisition cost.
 
 
-*Freelance Economics & Maths Tutor (July 2015 - July 2016)*
+***Freelance Economics & Maths Tutor (July 2015 - July 2016)***
 * Built a client base from scratch, and helped all students achieve on or above target grades for GCSE & A-level.
 
 
@@ -94,7 +100,7 @@ Working in growth at various startups has demanded a diverse set of problem solv
 
 ## Education & Training
 
-Makers Academy Software Engineering Bootcamp (March 2022 - July 2022)
+***Makers Academy Software Engineering Bootcamp (March 2022 - July 2022)***
 * 16-week full-time intensive software development bootcamp.
 * Learnt key programming concepts, including **test-driven development**, **debugging**, and the **single responsibility principle**.
 * Built several projects in teams, using the **Agile methodology**.
@@ -103,18 +109,18 @@ Makers Academy Software Engineering Bootcamp (March 2022 - July 2022)
 * Pair programming helped refine good communication and reinforced coding concepts.
 
 
-NEF+ Programme - Centre For Entrepreneurs (September 2016 - June 2017)
+***NEF+ Programme - Centre For Entrepreneurs (September 2016 - June 2017)***
 * Intensive 12-month programme to develop future entrepreneurs through practical business experience, workshops, alongside business coaching and mentoring.
 
 
-PGCE (Mathematics) - Institute of Education (September 2013 - July 2014)
+***PGCE (Mathematics) - Institute of Education (September 2013 - July 2014)***
 
 
-BA Economics - University of Cambridge (October 2010 - June 2013)
+***BA Economics - University of Cambridge (October 2010 - June 2013)***
 
 
 ## Hobbies
-* Catan & Poker: The two best games around, I have regular games in each with my friends.
-* Nature: Nothing more peaceful to me than going for a walk amongst some beautiful greenery.
-* Football Analytics: I nerd out on football data, have built my own [team strength model](https://github.com/sjtinsley/teamstrengthmodel). I love football itself too, and semi-regularly travel to Elland Road to watch my beloved Leeds United.
-* Cooking: Especially Italian food. 😋
+* **Catan & Poker:** The two best games around, I have regular games in each with my friends.
+* **Nature:** Nothing more peaceful to me than going for a walk amongst some beautiful greenery.
+* **Football Analytics:** I nerd out on football data, have built my own [team strength model](https://github.com/sjtinsley/teamstrengthmodel). I love football itself too, and semi-regularly travel to Elland Road to watch my beloved Leeds United.
+* **Cooking:** Especially Italian food. 😋
