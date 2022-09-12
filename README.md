@@ -1,12 +1,12 @@
 # Simon Tinsley
 
 ## Intro
-Hi, I'm Simon, a software developer who has recently made the leap into pursuing this as a career full-time. I spent the last 5 years working at startups in Growth. Having taught myself HTML, CSS, jQuery and SQL in those roles - as we were always short of engineers! - I found the time I was spending coding was the part of the job I was enjoying the most.
+Hi 👋 - I'm Simon, a software developer who has recently made the leap into pursuing this as a career full-time. I spent the last 5 years working at startups in Growth. Having taught myself HTML, CSS, jQuery and SQL in those roles - as we were always short of engineers! - I found the time I was spending coding was the part of the job I was enjoying the most.
 
 I took the plungs and joined Makers Academy for a 16-week bootcamp, learning key concepts and establishing a solid develop process, and I'm now looking for my first full-time role as a software engineer.
 
 
-## Tech Stack
+## 💾 Tech Stack
 * Ruby (RSpec, Sinatra, Capybara)
 * JavaScript (React, Node.js, Express, Jest, Cypress, Koa) 
 * HTML, CSS (Bootstrap, Handlebars)
@@ -14,7 +14,7 @@ I took the plungs and joined Makers Academy for a 16-week bootcamp, learning key
 * PostgreSQL, MongoDB, TablePlus, Mongoose
 * Git, Github, Command Line
 
-## Projects
+## 💼 Projects
 
 | Project | Link | Solo/group | Technologies |
 | ------- | ---- | ---------- | ------------ |
@@ -26,7 +26,7 @@ I took the plungs and joined Makers Academy for a 16-week bootcamp, learning key
 | Bank Statement Program | [Repo](https://github.com/sjtinsley/bank-tech-test) | Solo | Ruby, Rspec |
 
 
-## Skills
+## 🤓 Skills
 
 ***Fast Learner***
 
@@ -47,7 +47,7 @@ Whilst teaching, I had to ensure the concepts were explained clearly & understoo
 Working in growth at various startups has demanded a diverse set of problem solving skills. When re-designing the pricing system at ClickMechanic (a 2-sided marketplace for car repair), it required predicting behaviour on both the customer & mechanic sides, messaging any changes delicately to mechanics and adjusting the design according to engineering requirements.
 
 
-## Professional Experience
+## 👨‍💼 Professional Experience
 
 ***Head of Growth - Alva (June 2021 - December 2021)***
 * Delivered revenue growth of 50% per month. 
@@ -91,14 +91,14 @@ Working in growth at various startups has demanded a diverse set of problem solv
 * Built a client base from scratch, and helped all students achieve on or above target grades for GCSE & A-level.
 
 
-*Secondary School Maths Teacher - TeachFirst (July 2013 - July 2015)*
+***Secondary School Maths Teacher - TeachFirst (July 2013 - July 2015)***
 * Taught Key Stage 2 to 4 Mathematics in an area of socio-economic deprivation following 6 weeks of training.
 * Completed the PGCE alongside a full-time teaching position.
 * Ran STEP (University of Cambridge maths admissions tests) programme for Year 13 students, and an after-school club for talented KS3 students.
 * Managed 25 university applications as a tutor, helping them receive the only two "Oxbridge" offers in the school.
 
 
-## Education & Training
+## 📖 Education & Training
 
 ***Makers Academy Software Engineering Bootcamp (March 2022 - July 2022)***
 * 16-week full-time intensive software development bootcamp.
@@ -119,7 +119,7 @@ Working in growth at various startups has demanded a diverse set of problem solv
 ***BA Economics - University of Cambridge (October 2010 - June 2013)***
 
 
-## Hobbies
+## 🥳 Hobbies
 * **Catan & Poker:** The two best games around, I have regular games in each with my friends.
 * **Nature:** Nothing more peaceful to me than going for a walk amongst some beautiful greenery.
 * **Football Analytics:** I nerd out on football data, have built my own [team strength model](https://github.com/sjtinsley/teamstrengthmodel). I love football itself too, and semi-regularly travel to Elland Road to watch my beloved Leeds United.
