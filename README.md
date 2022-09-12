@@ -20,8 +20,8 @@ I took the plungs and joined Makers Academy for a 16-week bootcamp, learning key
 | ------- | ---- | ---------- | ------------ |
 | EV Routing Tool | [Repo](https://github.com/sjtinsley/ev-routing) | Group | React, Javascript, Koa, Mapbox, Google Places API, Here EV Routing API, HTML, CSS |
 | Football Team Strength Model | [Repo](https://github.com/sjtinsley/teamstrengthmodel) | Solo | Python |
-| Mettah (Facebook Clone) | [Repo](https://github.com/tomoneill32/acebook-allowTeamToReceiveName) | Group | Express, MongoDB, Jest, Javascript, Handlebars, HTML, CSS |
-| Chuckle BnB (AirBnB clone) | [Repo](https://github.com/sjtinsley/chuckle_brothers_bnb) | Group | Ruby, PostgreSQL, CSS, HTML, Sinstra, Rspec |
+| Mettah (Facebook Clone) | [Repo](https://github.com/tomoneill32/acebook-allowTeamToReceiveName) | Group | Express, MongoDB, Jest, Cypress, Javascript, Handlebars, HTML, CSS |
+| Chuckle BnB (AirBnB clone) | [Repo](https://github.com/sjtinsley/chuckle_brothers_bnb) | Group | Ruby, PostgreSQL, CSS, HTML, Sinatra, Capybara, Rspec |
 | Bowling Scorecard | [Repo](https://github.com/sjtinsley/bowling-scorecard-ruby) | Solo | Ruby, Rspec |
 | Bank Statement Program | [Repo](https://github.com/sjtinsley/bank-tech-test) | Solo | Ruby, Rspec |
 
