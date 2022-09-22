@@ -31,17 +31,19 @@ I took the plungs and joined Makers Academy for a 16-week bootcamp, learning key
 ### Fast Learner
 Throughout my career I have jumped in at the deep end, and had to learn new skills from scratch. I was a full-time teacher after 6 weeks of training, and the only person in the growth team at ClickMechanic with no experience. Whilst at ClickMechanic, I taught myself SQL & ran the business intelligence function, and also learned how to run a product process.
 
-I find the challenge of learning something new exhilirating, and thrive on the challenge of learning in an unfamiliar environment.
+I find the challenge of learning something new exhilirating, and thrive on the challenge of learning in an unfamiliar environment. I found this particularly stimulating at Makers Academy, where much of the learning was self-directed, and the skills I had built up over the course of my career enabled me to grasp new concepts quickly and help explain them to others in my cohort.
 
 
 ### Good Communicator
 Working in the product process in multiple companies has demanded good communication. I have worked with multiple stakeholders across the businesses, to ensure correct prioritisation, and the impact on each of the teams. I have extensive experience working with engineers to ensure the requirements are clear and to understand the technical limitations and challenges in any ticket, so that I can design it to minimise development time.
 
-Whilst teaching, I had to ensure the concepts were explained clearly & understood by pupils.
+Whilst teaching, I had to ensure the concepts were explained clearly & understood by pupils. Similarly, Makers Academy demanded clear communication to help navigate my partner during pair programming, ensuring that they understood the concepts being taught, and during debugging our code.
 
 
 ### Problem Solving
 Working in growth at various startups has demanded a diverse set of problem solving skills. When re-designing the pricing system at ClickMechanic (a 2-sided marketplace for car repair), it required predicting behaviour on both the customer & mechanic sides, messaging any changes delicately to mechanics and adjusting the design according to engineering requirements.
+
+I particularly enjoy problem solving while coding, where it demands precisely understanding the requirements & logic. Likewise, it is particularly helpful in debugging, where a methological approach saved me countless hours during the course.
 
 
 ## 👨‍💼 Professional Experience
@@ -86,6 +88,7 @@ Working in growth at various startups has demanded a diverse set of problem solv
 
 ### Freelance Economics & Maths Tutor (July 2015 - July 2016)
 * Built a client base from scratch, and helped all students achieve on or above target grades for GCSE & A-level.
+* Managed multiple client relationships, keeping parents in the loop with their children's development & areas to work on.
 
 
 ### Secondary School Maths Teacher - TeachFirst (July 2013 - July 2015)
@@ -100,7 +103,7 @@ Working in growth at various startups has demanded a diverse set of problem solv
 ### Makers Academy Software Engineering Bootcamp (March 2022 - July 2022)
 * 16-week full-time intensive software development bootcamp.
 * Learnt key programming concepts, including **test-driven development**, **debugging**, and the **single responsibility principle**.
-* Built several projects in teams, using the **Agile methodology**.
+* Built several projects in teams, using the **Agile methodology** - turning tickets into requirements, prioritising features, running sprints including standups & retros and building those tickets.
 * Taught in Ruby & JavaScript, with a language agnostic attitude - learnt how to translate key concepts between different languages. 
 * Self-taught React from scratch while building our final [2-week project](https://github.com/sjtinsley/ev-routing).
 * Pair programming helped refine good communication and reinforced coding concepts.
