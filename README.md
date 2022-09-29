@@ -3,7 +3,7 @@
 ## 👋 Intro
 Hi - I'm Simon, a software developer who has recently made the leap into pursuing this as a career full-time. I spent the last 5 years working at startups in Growth. Having taught myself HTML, CSS, jQuery and SQL in those roles - as we were always short of engineers! - I found the time I was spending coding was the part of the job I was enjoying the most.
 
-I took the plungs and joined Makers Academy for a 16-week bootcamp, learning key concepts and establishing a solid develop process, and I'm now looking for my first full-time role as a software engineer.
+I took the plunge and joined Makers Academy for a 16-week bootcamp, learning key concepts and establishing a solid develop process, and I'm now looking for my first full-time role as a software engineer.
 
 
 ## 💾 Tech Stack
