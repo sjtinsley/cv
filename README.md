@@ -69,7 +69,7 @@ I particularly enjoy problem solving while coding, where it demands precisely un
 
 ### Growth Manager - Lyvly (April 2019 - April 2020)
 * Led the conversion rate optimisation process, delivering 50% conversion rate improvement in 3 months.
-  * Designed experients from user research & data insight.
+  * Designed experiments from user research & data insight.
   * Built tests using JavaScript, CSS & HTML.
 * Conceived & designed the property checkout flow.
   * Built wireframes collaborated with engineers on technical requirements.
